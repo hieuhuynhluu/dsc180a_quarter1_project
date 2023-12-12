@@ -2,9 +2,9 @@
 
 An automatic and efficient tool to describe functionalities of individual neurons in DNNs.
 
-This is the official repository for our paper: [CLIP-Dissect: Automatic Description of Neuron Representations in Deep Vision Networks](https://arxiv.org/abs/2204.10965) published at ICLR 2023. 
+This is the official repository for Lily's paper: [CLIP-Dissect: Automatic Description of Neuron Representations in Deep Vision Networks](https://arxiv.org/abs/2204.10965) published at ICLR 2023. 
 
-**Update 6/5/23**: We have conducted a crowdsourced evaluation of our description quality, results are available on [arxiv](https://arxiv.org/abs/2204.10965) (Appendix B).
+It includes notebooks that I used to complete work for Project 1.
 
 ![Overview](data/github_overview_figure.png)
 
